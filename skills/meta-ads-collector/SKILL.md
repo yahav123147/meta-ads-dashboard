@@ -1,3 +1,10 @@
+---
+name: Meta Ads Data Collector
+description: Pull daily ad performance data from Meta Ads Manager into the dashboard
+version: 1.0.0
+author: yahav
+---
+
 # Meta Ads Data Collector
 
 ## Description

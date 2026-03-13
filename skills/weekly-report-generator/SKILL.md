@@ -1,3 +1,10 @@
+---
+name: Weekly Report Generator
+description: Generate formatted weekly and monthly performance reports from Meta Ads data
+version: 1.0.0
+author: yahav
+---
+
 # Weekly Report Generator
 
 ## Description

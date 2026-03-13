@@ -1,3 +1,10 @@
+---
+name: Ad Performance Analyzer
+description: Analyze Meta Ads data and provide actionable diagnostics and recommendations
+version: 1.0.0
+author: yahav
+---
+
 # Ad Performance Analyzer
 
 ## Description
