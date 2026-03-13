@@ -1,0 +1,38 @@
+{
+  "settings": {
+    "businessName": "",
+    "month": 3,
+    "year": 2026,
+    "vatRate": 18,
+    "breakEvenRoas": 2
+  },
+  "accounts": [
+    {
+      "id": "1",
+      "name": "חשבון 1",
+      "days": []
+    },
+    {
+      "id": "2",
+      "name": "חשבון 2",
+      "days": []
+    },
+    {
+      "id": "3",
+      "name": "חשבון 3",
+      "days": []
+    },
+    {
+      "id": "4",
+      "name": "חשבון 4",
+      "days": []
+    },
+    {
+      "id": "5",
+      "name": "חשבון 5",
+      "days": []
+    }
+  ],
+  "_lastUpdated": "",
+  "_updatedBy": ""
+}
